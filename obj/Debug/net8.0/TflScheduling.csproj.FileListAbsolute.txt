@@ -1,0 +1,42 @@
+/Users/tony/RiderProjects/TflScheduling/bin/Debug/net8.0/TflScheduling
+/Users/tony/RiderProjects/TflScheduling/bin/Debug/net8.0/TflScheduling.deps.json
+/Users/tony/RiderProjects/TflScheduling/bin/Debug/net8.0/TflScheduling.runtimeconfig.json
+/Users/tony/RiderProjects/TflScheduling/bin/Debug/net8.0/TflScheduling.dll
+/Users/tony/RiderProjects/TflScheduling/bin/Debug/net8.0/TflScheduling.pdb
+/Users/tony/RiderProjects/TflScheduling/obj/Debug/net8.0/TflScheduling.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tony/RiderProjects/TflScheduling/obj/Debug/net8.0/TflScheduling.AssemblyInfoInputs.cache
+/Users/tony/RiderProjects/TflScheduling/obj/Debug/net8.0/TflScheduling.AssemblyInfo.cs
+/Users/tony/RiderProjects/TflScheduling/obj/Debug/net8.0/TflScheduling.csproj.CoreCompileInputs.cache
+/Users/tony/RiderProjects/TflScheduling/obj/Debug/net8.0/TflScheduling.dll
+/Users/tony/RiderProjects/TflScheduling/obj/Debug/net8.0/refint/TflScheduling.dll
+/Users/tony/RiderProjects/TflScheduling/obj/Debug/net8.0/TflScheduling.pdb
+/Users/tony/RiderProjects/TflScheduling/obj/Debug/net8.0/TflScheduling.genruntimeconfig.cache
+/Users/tony/RiderProjects/TflScheduling/obj/Debug/net8.0/ref/TflScheduling.dll
+/Users/tony/RiderProjects/TflSchedulingV1/bin/Debug/net8.0/TflScheduling
+/Users/tony/RiderProjects/TflSchedulingV1/bin/Debug/net8.0/TflScheduling.deps.json
+/Users/tony/RiderProjects/TflSchedulingV1/bin/Debug/net8.0/TflScheduling.runtimeconfig.json
+/Users/tony/RiderProjects/TflSchedulingV1/bin/Debug/net8.0/TflScheduling.dll
+/Users/tony/RiderProjects/TflSchedulingV1/bin/Debug/net8.0/TflScheduling.pdb
+/Users/tony/RiderProjects/TflSchedulingV1/obj/Debug/net8.0/TflScheduling.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tony/RiderProjects/TflSchedulingV1/obj/Debug/net8.0/TflScheduling.AssemblyInfoInputs.cache
+/Users/tony/RiderProjects/TflSchedulingV1/obj/Debug/net8.0/TflScheduling.AssemblyInfo.cs
+/Users/tony/RiderProjects/TflSchedulingV1/obj/Debug/net8.0/TflScheduling.csproj.CoreCompileInputs.cache
+/Users/tony/RiderProjects/TflSchedulingV1/obj/Debug/net8.0/TflScheduling.dll
+/Users/tony/RiderProjects/TflSchedulingV1/obj/Debug/net8.0/refint/TflScheduling.dll
+/Users/tony/RiderProjects/TflSchedulingV1/obj/Debug/net8.0/TflScheduling.pdb
+/Users/tony/RiderProjects/TflSchedulingV1/obj/Debug/net8.0/TflScheduling.genruntimeconfig.cache
+/Users/tony/RiderProjects/TflSchedulingV1/obj/Debug/net8.0/ref/TflScheduling.dll
+C:\Users\DANIEL\Documents\UoW_SE\SEM 2\Data Structures and Algorithms\dsa\dsa\TflSchedulingV1\bin\Debug\net8.0\TflScheduling.exe
+C:\Users\DANIEL\Documents\UoW_SE\SEM 2\Data Structures and Algorithms\dsa\dsa\TflSchedulingV1\bin\Debug\net8.0\TflScheduling.deps.json
+C:\Users\DANIEL\Documents\UoW_SE\SEM 2\Data Structures and Algorithms\dsa\dsa\TflSchedulingV1\bin\Debug\net8.0\TflScheduling.runtimeconfig.json
+C:\Users\DANIEL\Documents\UoW_SE\SEM 2\Data Structures and Algorithms\dsa\dsa\TflSchedulingV1\bin\Debug\net8.0\TflScheduling.dll
+C:\Users\DANIEL\Documents\UoW_SE\SEM 2\Data Structures and Algorithms\dsa\dsa\TflSchedulingV1\bin\Debug\net8.0\TflScheduling.pdb
+C:\Users\DANIEL\Documents\UoW_SE\SEM 2\Data Structures and Algorithms\dsa\dsa\TflSchedulingV1\obj\Debug\net8.0\TflScheduling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DANIEL\Documents\UoW_SE\SEM 2\Data Structures and Algorithms\dsa\dsa\TflSchedulingV1\obj\Debug\net8.0\TflScheduling.AssemblyInfoInputs.cache
+C:\Users\DANIEL\Documents\UoW_SE\SEM 2\Data Structures and Algorithms\dsa\dsa\TflSchedulingV1\obj\Debug\net8.0\TflScheduling.AssemblyInfo.cs
+C:\Users\DANIEL\Documents\UoW_SE\SEM 2\Data Structures and Algorithms\dsa\dsa\TflSchedulingV1\obj\Debug\net8.0\TflScheduling.csproj.CoreCompileInputs.cache
+C:\Users\DANIEL\Documents\UoW_SE\SEM 2\Data Structures and Algorithms\dsa\dsa\TflSchedulingV1\obj\Debug\net8.0\TflScheduling.dll
+C:\Users\DANIEL\Documents\UoW_SE\SEM 2\Data Structures and Algorithms\dsa\dsa\TflSchedulingV1\obj\Debug\net8.0\refint\TflScheduling.dll
+C:\Users\DANIEL\Documents\UoW_SE\SEM 2\Data Structures and Algorithms\dsa\dsa\TflSchedulingV1\obj\Debug\net8.0\TflScheduling.pdb
+C:\Users\DANIEL\Documents\UoW_SE\SEM 2\Data Structures and Algorithms\dsa\dsa\TflSchedulingV1\obj\Debug\net8.0\TflScheduling.genruntimeconfig.cache
+C:\Users\DANIEL\Documents\UoW_SE\SEM 2\Data Structures and Algorithms\dsa\dsa\TflSchedulingV1\obj\Debug\net8.0\ref\TflScheduling.dll
